@@ -8,3 +8,4 @@ s=s+Double.parseDouble(x);
 System.out.println(s);
 }
 }
+//System.out.println(x);
