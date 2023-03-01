@@ -1,3 +1,4 @@
+//import java.io.*;
 class Sum{
 public static void main(String args[]){
 double s=0;
